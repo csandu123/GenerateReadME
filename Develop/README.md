@@ -1,21 +1,21 @@
 
   # ReadME Generator
   ##  Description
-  Easily create professional readmes
+  Welcome to my readme generator!!
   ##  Requirements
-  user must install node and inquirer
+  npm, inquirer
   ##  Usage
-  run node index.js in terminal to initiate project
+  use node index.js to initialize
   
   csandu123(https://github.com/csandu123)
   
-  Cosmin ,
+  Cosmin,
   
   Reach me by email at [ces.pnw@gmail.com]. 
   
   If you would like to contribute to the project then follow these instructions:
   
-  contact me at my email
+  Contact me via email provided
  
  Distributed under the *[MIT]*.
   
