@@ -1,21 +1,21 @@
 
-  # ReadME Generator
+  # big boob
   ##  Description
-  Welcome to my readme generator!!
+  no description
   ##  Requirements
-  npm, inquirer
+  nothing
   ##  Usage
-  use node index.js to initialize
+  still nothing
   
-  csandu123(https://github.com/csandu123)
+  no name(https://github.com/no name)
   
-  Cosmin,
+  David,
   
-  Reach me by email at [ces.pnw@gmail.com]. 
+  Reach me by email at [poop butt]. 
   
   If you would like to contribute to the project then follow these instructions:
   
-  Contact me via email provided
+  no way
  
  Distributed under the *[MIT]*.
   
